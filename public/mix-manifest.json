@@ -1,0 +1,19 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/fileUpload.js": "/js/fileUpload.js",
+    "/js/jquery.js": "/js/jquery.js",
+    "/js/menu.js": "/js/menu.js",
+    "/css/app.css": "/css/app.css",
+    "/css/custom.css": "/css/custom.css",
+    "/images/bg.jpg": "/images/bg.jpg",
+    "/images/gicon.png": "/images/gicon.png",
+    "/images/home-bg.jpg": "/images/home-bg.jpg",
+    "/images/home-bg.png": "/images/home-bg.png",
+    "/images/logo.png": "/images/logo.png",
+    "/images/vendor/jquery-ui/themes/base/ui-icons_444444_256x240.png": "/images/vendor/jquery-ui/themes/base/ui-icons_444444_256x240.png",
+    "/images/vendor/jquery-ui/themes/base/ui-icons_555555_256x240.png": "/images/vendor/jquery-ui/themes/base/ui-icons_555555_256x240.png",
+    "/images/vendor/jquery-ui/themes/base/ui-icons_777620_256x240.png": "/images/vendor/jquery-ui/themes/base/ui-icons_777620_256x240.png",
+    "/images/vendor/jquery-ui/themes/base/ui-icons_777777_256x240.png": "/images/vendor/jquery-ui/themes/base/ui-icons_777777_256x240.png",
+    "/images/vendor/jquery-ui/themes/base/ui-icons_cc0000_256x240.png": "/images/vendor/jquery-ui/themes/base/ui-icons_cc0000_256x240.png",
+    "/images/vendor/jquery-ui/themes/base/ui-icons_ffffff_256x240.png": "/images/vendor/jquery-ui/themes/base/ui-icons_ffffff_256x240.png"
+}
